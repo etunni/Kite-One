@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ringacute.case" format="1">
+  <advance width="326"/>
+  <outline>
+    <component  base="ringacute" yOffset="285"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="">
+      <hstem pos="552" width="48" />
+      <hstem pos="716" width="49" />
+      <hstem pos="864" width="-20" />
+      <vstem pos="45" width="70" />
+      <vstem pos="201" width="71" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

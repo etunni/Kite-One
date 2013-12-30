@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.case" format="1">
+  <advance width="427"/>
+  <outline>
+    <contour>
+      <point x="272" y="991" type="curve" smooth="yes"/>
+      <point x="232" y="991" smooth="yes"/>
+      <point x="196" y="1031" smooth="yes"/>
+      <point x="157" y="1031" type="curve" smooth="yes" name="hr01"/>
+      <point x="104" y="1031" smooth="yes"/>
+      <point x="50" y="966" smooth="yes"/>
+      <point x="50" y="953" type="curve" smooth="yes"/>
+      <point x="50" y="936" smooth="yes"/>
+      <point x="58" y="922" smooth="yes"/>
+      <point x="79" y="922" type="curve" smooth="yes" name="hr02"/>
+      <point x="90" y="922" smooth="yes"/>
+      <point x="116" y="962" smooth="yes"/>
+      <point x="155" y="962" type="curve" smooth="yes" name="hr03"/>
+      <point x="195" y="962" smooth="yes"/>
+      <point x="231" y="922" smooth="yes"/>
+      <point x="270" y="922" type="curve" smooth="yes" name="hr04"/>
+      <point x="323" y="922" smooth="yes"/>
+      <point x="377" y="987" smooth="yes"/>
+      <point x="377" y="1000" type="curve" smooth="yes"/>
+      <point x="377" y="1017" smooth="yes"/>
+      <point x="369" y="1031" smooth="yes"/>
+      <point x="348" y="1031" type="curve" smooth="yes" name="hr05"/>
+      <point x="337" y="1031" smooth="yes"/>
+      <point x="311" y="991" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="962" width="69" />
+    </hintset>
+    <hintset pointTag="hr02">
+      <hstem pos="922" width="69" />
+    </hintset>
+    <hintset pointTag="hr03">
+      <hstem pos="962" width="69" />
+    </hintset>
+    <hintset pointTag="hr04">
+      <hstem pos="922" width="69" />
+    </hintset>
+    <hintset pointTag="hr05">
+      <hstem pos="962" width="69" />
+    </hintset>
+    <hintset pointTag="hr06">
+      <hstem pos="922" width="69" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

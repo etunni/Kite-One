@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.case" format="1">
+  <advance width="404"/>
+  <outline>
+    <contour>
+      <point x="290" y="923" type="line" smooth="yes"/>
+      <point x="299" y="913" smooth="yes"/>
+      <point x="303" y="910" smooth="yes"/>
+      <point x="311" y="910" type="curve" smooth="yes"/>
+      <point x="324" y="910" smooth="yes"/>
+      <point x="340" y="924" smooth="yes"/>
+      <point x="340" y="940" type="curve" smooth="yes"/>
+      <point x="340" y="943" smooth="yes"/>
+      <point x="339" y="947" smooth="yes"/>
+      <point x="334" y="955" type="curve" smooth="yes"/>
+      <point x="263" y="1063" type="line" smooth="yes"/>
+      <point x="253" y="1078" smooth="yes"/>
+      <point x="243" y="1086" smooth="yes"/>
+      <point x="224" y="1086" type="curve" smooth="yes"/>
+      <point x="204" y="1086" smooth="yes"/>
+      <point x="190" y="1073" smooth="yes"/>
+      <point x="171" y="1055" type="curve" smooth="yes"/>
+      <point x="64" y="950" type="line" smooth="yes"/>
+      <point x="61" y="947" smooth="yes"/>
+      <point x="60" y="942" smooth="yes"/>
+      <point x="60" y="937" type="curve" smooth="yes"/>
+      <point x="60" y="923" smooth="yes"/>
+      <point x="70" y="911" smooth="yes"/>
+      <point x="84" y="911" type="curve" smooth="yes" name="hr01"/>
+      <point x="90" y="911" smooth="yes"/>
+      <point x="94" y="912" smooth="yes"/>
+      <point x="99" y="916" type="curve" smooth="yes"/>
+      <point x="219" y="1002" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="932" width="-21" />
+      <hstem pos="1086" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
